@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Sage Website Blog</title>
-        <link>https://nconrad.github.io/blog</link>
+        <link>https://nconrad.github.io/waggle-docs/blog</link>
         <description>Sage Website Blog</description>
         <lastBuildDate>Thu, 03 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Sage Neon deployment to the Konza LTER site in Kansas]]></title>
-            <link>https://nconrad.github.io/blog/sage-neon-deploy-konza</link>
+            <link>https://nconrad.github.io/waggle-docs/blog/sage-neon-deploy-konza</link>
             <guid>sage-neon-deploy-konza</guid>
             <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[In April 2022, 4 Sage nodes (3 Wild Waggle Nodes and 1 Waggle Blade Node) were deployed with an array of sensors (thermographic camera, air quality sensor, etc.) to collect data to better our understanding of smoke and wildfire detection.]]></description>
@@ -20,7 +20,7 @@
         </item>
         <item>
             <title><![CDATA[Argonne's Big Data Camp Goes Virtual]]></title>
-            <link>https://nconrad.github.io/blog/big-data</link>
+            <link>https://nconrad.github.io/waggle-docs/blog/big-data</link>
             <guid>big-data</guid>
             <pubDate>Wed, 02 Sep 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[For five days last July, fourteen high school students attended a virtual coding camp sponsored by Argonne National Laboratory’s Educational Programs and Outreach and the Argonne Leadership Computing Facility (ALCF), co-taught by laboratory scientists and informal learning educators, and focused on learning techniques for probing and analyzing massive scientific datasets.]]></description>

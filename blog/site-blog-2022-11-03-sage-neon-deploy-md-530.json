@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/sage-neon-deploy-konza",
+  "permalink": "/waggle-docs/blog/sage-neon-deploy-konza",
   "editUrl": "https://github.com/waggle-sensor/waggle-docs/edit/main/blog/2022-11-03-sage-neon-deploy.md",
   "source": "@site/blog/2022-11-03-sage-neon-deploy.md",
   "title": "Sage Neon deployment to the Konza LTER site in Kansas",
@@ -9,11 +9,11 @@
   "tags": [
     {
       "label": "node",
-      "permalink": "/blog/tags/node"
+      "permalink": "/waggle-docs/blog/tags/node"
     },
     {
       "label": "deployment",
-      "permalink": "/blog/tags/deployment"
+      "permalink": "/waggle-docs/blog/tags/deployment"
     }
   ],
   "readingTime": 0.665,
@@ -40,6 +40,6 @@
   },
   "nextItem": {
     "title": "Argonne's Big Data Camp Goes Virtual",
-    "permalink": "/blog/big-data"
+    "permalink": "/waggle-docs/blog/big-data"
   }
 }

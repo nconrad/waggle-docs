@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/big-data",
+  "permalink": "/waggle-docs/blog/big-data",
   "editUrl": "https://github.com/waggle-sensor/waggle-docs/edit/main/blog/2020-09-02-big-data.md",
   "source": "@site/blog/2020-09-02-big-data.md",
   "title": "Argonne's Big Data Camp Goes Virtual",
@@ -9,11 +9,11 @@
   "tags": [
     {
       "label": "big data",
-      "permalink": "/blog/tags/big-data"
+      "permalink": "/waggle-docs/blog/tags/big-data"
     },
     {
       "label": "ALCF",
-      "permalink": "/blog/tags/alcf"
+      "permalink": "/waggle-docs/blog/tags/alcf"
     }
   ],
   "readingTime": 5.545,
@@ -40,6 +40,6 @@
   },
   "prevItem": {
     "title": "Sage Neon deployment to the Konza LTER site in Kansas",
-    "permalink": "/blog/sage-neon-deploy-konza"
+    "permalink": "/waggle-docs/blog/sage-neon-deploy-konza"
   }
 }
