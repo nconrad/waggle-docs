@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3552],{4726:e=>{e.exports=JSON.parse('{"title":"About","slug":"/category/about","permalink":"/waggle-docs/docs/category/about","navigation":{"next":{"title":"Overview","permalink":"/waggle-docs/docs/about/overview"}}}')}}]);

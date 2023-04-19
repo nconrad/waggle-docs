@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Sage Neon deployment to the Konza LTER site in Kansas","permalink":"/sage-website/blog/sage-neon-deploy-konza"},{"title":"Argonne\'s Big Data Camp Goes Virtual","permalink":"/sage-website/blog/big-data"}]}')}}]);

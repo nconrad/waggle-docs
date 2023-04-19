@@ -4,8 +4,8 @@
   <ShortName>Sage Website</ShortName>
   <Description>Search Sage Website</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://nconrad.github.io/waggle-docs/img/sage-favicon.png</Image>
-  <Url type="text/html" method="get" template="https://nconrad.github.io/waggle-docs/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://nconrad.github.io/waggle-docs/opensearch.xml" />
-  <moz:SearchForm>https://nconrad.github.io/waggle-docs/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://nconrad.github.io/sage-website/img/sage-favicon.png</Image>
+  <Url type="text/html" method="get" template="https://nconrad.github.io/sage-website/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://nconrad.github.io/sage-website/opensearch.xml" />
+  <moz:SearchForm>https://nconrad.github.io/sage-website/</moz:SearchForm>
 </OpenSearchDescription>

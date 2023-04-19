@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8837],{1247:a=>{a.exports=JSON.parse('{"label":"big data","permalink":"/waggle-docs/blog/tags/big-data","allTagsPath":"/waggle-docs/blog/tags","count":1}')}}]);
