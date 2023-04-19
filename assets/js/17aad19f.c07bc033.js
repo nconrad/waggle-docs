@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6688],{7792:e=>{e.exports=JSON.parse('{"title":"About","slug":"/category/about","permalink":"/sage-website/docs/category/about","navigation":{"next":{"title":"Overview","permalink":"/sage-website/docs/about/overview"}}}')}}]);
